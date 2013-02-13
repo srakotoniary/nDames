@@ -1,0 +1,1 @@
+/usr/bin/c++   -g    CMakeFiles/ndames.dir/echequier.cpp.o CMakeFiles/ndames.dir/position.cpp.o CMakeFiles/ndames.dir/reine.cpp.o CMakeFiles/ndames.dir/main.cpp.o  -o ndames -rdynamic 

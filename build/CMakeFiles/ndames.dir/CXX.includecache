@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/etudiant/projects/nDames/echequier.cpp
+echequier.h
+/home/etudiant/projects/nDames/echequier.h
+
+/home/etudiant/projects/nDames/echequier.h
+reine.h
+/home/etudiant/projects/nDames/reine.h
+vector
+-
+
+/home/etudiant/projects/nDames/position.h
+
+/home/etudiant/projects/nDames/reine.h
+position.h
+/home/etudiant/projects/nDames/position.h
+iostream
+-
+
